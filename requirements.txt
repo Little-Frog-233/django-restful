@@ -1,0 +1,8 @@
+djangorestframework==3.11.0
+django-cors-headers
+django-redis
+django==2.2.10
+mysqlclient
+drf-yasg2
+pyDes
+# pymysql==0.8.1
